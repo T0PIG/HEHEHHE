@@ -82,3 +82,5 @@ We aim to create a governance model that can be adopted across various decentral
 - Experimental governance models including holacracy and sociocracy integration
 
 - ![Untitled](https://github.com/user-attachments/assets/b4c6b789-5203-4714-8b88-7358bcdf24e1)
+
+0xd16Efa7C3Ef6ccFfa9EF6137B57f65AFbBa081De
