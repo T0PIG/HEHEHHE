@@ -80,3 +80,5 @@ We aim to create a governance model that can be adopted across various decentral
 - Game theory optimization of voting incentives and mechanisms
 - Academic partnerships for ongoing governance research
 - Experimental governance models including holacracy and sociocracy integration
+
+- ![Untitled](https://github.com/user-attachments/assets/b4c6b789-5203-4714-8b88-7358bcdf24e1)
